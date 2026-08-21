@@ -21,7 +21,7 @@
 在 Codex 中输入：
 
 ```text
-$skill-installer install https://github.com/YOUR_GITHUB_USER/founder-pitch-studio-skill/tree/main/skills/founder-pitch-studio
+$skill-installer install https://github.com/narutopujian/founder-pitch-studio-skill/tree/main/skills/founder-pitch-studio
 ```
 
 安装后重启 Codex。

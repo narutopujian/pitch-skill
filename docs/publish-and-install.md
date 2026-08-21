@@ -7,18 +7,18 @@
 3. 在本地仓库运行：
 
 ```bash
-git remote add origin https://github.com/<你的用户名>/founder-pitch-studio-skill.git
+git remote add origin https://github.com/narutopujian/founder-pitch-studio-skill.git
 git push -u origin main
 ```
 
-4. 将根目录 `README.md` 安装命令中的 `YOUR_GITHUB_USER` 替换为真实用户名，再提交并推送。
+4. 确认根目录 `README.md` 中的安装地址指向当前公开仓库。
 
 ## 学生安装
 
 在 Codex 中输入：
 
 ```text
-$skill-installer install https://github.com/<老师的用户名>/founder-pitch-studio-skill/tree/main/skills/founder-pitch-studio
+$skill-installer install https://github.com/narutopujian/founder-pitch-studio-skill/tree/main/skills/founder-pitch-studio
 ```
 
 安装完成后重启 Codex。
