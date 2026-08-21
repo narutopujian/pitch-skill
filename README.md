@@ -21,7 +21,7 @@
 在 Codex 中输入：
 
 ```text
-$skill-installer install https://github.com/narutopujian/founder-pitch-studio-skill/tree/main/skills/founder-pitch-studio
+$skill-installer install https://github.com/narutopujian/founder-pitch-studio-skill/tree/main/skills/pitch
 ```
 
 安装后重启 Codex。
@@ -31,7 +31,7 @@ $skill-installer install https://github.com/narutopujian/founder-pitch-studio-sk
 用 Codex 打开自己的项目文件夹，然后输入：
 
 ```text
-$founder-pitch-studio 请读取我的项目，生成最终 Founder Pitch。
+$pitch 请读取我的项目，生成最终 Founder Pitch。
 ```
 
 Skill 会在项目根目录生成 `founder-pitch-output/`。第一次运行时只需回复一个风格编号。
@@ -49,4 +49,4 @@ Skill 会在项目根目录生成 `founder-pitch-output/`。第一次运行时�
 9. 真实观察手记
 10. 电影式 Founder 故事
 
-视觉预览文件位于 `skills/founder-pitch-studio/assets/style-gallery.html`。
+视觉预览文件位于 `skills/pitch/assets/style-gallery.html`。

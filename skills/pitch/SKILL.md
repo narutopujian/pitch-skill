@@ -1,5 +1,5 @@
 ---
-name: founder-pitch-studio
+name: pitch
 description: Read a product project's documents, code, progress notes, tests, screenshots, and recent changes, then automatically create a factual Founder Pitch outline, a fixed 16:9 interactive HTML deck, multiple talk-track versions, keyword cue cards, and investor Q&A. Use when a founder or student asks to turn an existing project into a pitch, demo day presentation, investor presentation, product launch page, or final project presentation. Ask the user only to choose one visual style; continue through all other stages without additional questions.
 ---
 
@@ -120,4 +120,3 @@ Fix all errors. Report only:
 - the files created;
 - remaining `[待验证]`, `[未完成]`, or `[未读取]` items;
 - whether browser visual checks were performed.
-

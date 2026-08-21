@@ -18,7 +18,7 @@ git push -u origin main
 在 Codex 中输入：
 
 ```text
-$skill-installer install https://github.com/narutopujian/founder-pitch-studio-skill/tree/main/skills/founder-pitch-studio
+$skill-installer install https://github.com/narutopujian/founder-pitch-studio-skill/tree/main/skills/pitch
 ```
 
 安装完成后重启 Codex。
@@ -29,7 +29,7 @@ $skill-installer install https://github.com/narutopujian/founder-pitch-studio-sk
 2. 输入：
 
 ```text
-$founder-pitch-studio 请读取我的项目，生成最终 Founder Pitch。
+$pitch 请读取我的项目，生成最终 Founder Pitch。
 ```
 
 3. Skill 会展示十种风格；学生只需回复 `1` 到 `10`。
@@ -38,7 +38,7 @@ $founder-pitch-studio 请读取我的项目，生成最终 Founder Pitch。
 如果老师希望全班统一风格，可以让学生直接输入：
 
 ```text
-$founder-pitch-studio 我选择第 1 种风格：Studio 编辑部白。请读取我的项目，生成最终 Founder Pitch。
+$pitch 我选择第 1 种风格：Studio 编辑部白。请读取我的项目，生成最终 Founder Pitch。
 ```
 
 这样整个过程不再询问问题。
