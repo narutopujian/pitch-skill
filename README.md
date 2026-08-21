@@ -14,7 +14,7 @@
 ![十种 Founder Pitch 风格](preview/style-gallery.png)
 
 老师发布仓库、学生安装和课堂使用的完整步骤见
-[老师发布与学生安装](docs/老师发布与学生安装.md)。
+[老师发布与学生安装](docs/publish-and-install.md)。
 
 ## 安装
 
