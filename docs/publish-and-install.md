@@ -2,12 +2,12 @@
 
 ## 老师只做一次：发布到 GitHub
 
-1. 在 GitHub 新建一个 **Public** 空仓库，名称建议使用 `founder-pitch-studio-skill`。
+1. 在 GitHub 新建一个 **Public** 空仓库，名称建议使用 `pitch-skill`。
 2. 不要勾选自动创建 README、`.gitignore` 或 License。
 3. 在本地仓库运行：
 
 ```bash
-git remote add origin https://github.com/narutopujian/founder-pitch-studio-skill.git
+git remote add origin https://github.com/narutopujian/pitch-skill.git
 git push -u origin main
 ```
 
@@ -18,7 +18,7 @@ git push -u origin main
 在 Codex 中输入：
 
 ```text
-$skill-installer install https://github.com/narutopujian/founder-pitch-studio-skill/tree/main/skills/pitch
+$skill-installer install https://github.com/narutopujian/pitch-skill/tree/main/skills/pitch
 ```
 
 安装完成后重启 Codex。
